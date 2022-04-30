@@ -1,16 +1,16 @@
-### Hi there 👋
+![test](./img/banner.png)
 
-<!--
-**dylanwe/dylanwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dylan! 👋
 
-Here are some ideas to get you started:
+<a href="https://dylanwe.com" rel="nofollow" style="box-sizing: border-box; padding: 2px 8px 2px 8px; background: #017CFF; border-radius: 5px; color: white; text-decoration: none; margin-right: 8px;">
+    <span>Portfolio</span>
+</a>
+<a href="https://www.linkedin.com/in/dylan-weijgertze/" rel="nofollow" style="box-sizing: border-box; padding: 2px 8px 2px 8px; background: #017CFF; border-radius: 5px; color: white; text-decoration: none;">
+    <span>LinkedIn</span>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m a Software Engineer student at the [Amsterdam University of Applied Sciences](https://www.hva.nl/) and I enjoy programming and reading.
+
+- 🧑🏻‍💻 I code my projects with **JavaScript, React.js, PHP, SQL, Git, HTML**
+-  🎨  I style my projects with **CSS3, Bootstrap, Tailwind**
+-  🌱 I’m currently learning **Java, Typescript**
