@@ -8,4 +8,4 @@
 
 - 🧑🏻‍💻 I `code` my projects with **JavaScript, Node.js, Laravel, MySQL, Git and HTML5**
 - 🎨 I `style` my projects with **CSS3, Bootstrap and Tailwind**
-- 🌱 I’m currently `learning` **Java and Typescript**
+- 🌱 I’m currently `learning` **Java and TypeScript**
