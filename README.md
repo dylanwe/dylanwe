@@ -1,4 +1,4 @@
-![test](./img/banner.png)
+![banner](./banner.png)
 
 # Hi, I'm Dylan! 👋
 
